@@ -14,6 +14,8 @@ Academic Pages is a Github Pages template for academic websites.
 1. Check status by going to the repository settings, in the "GitHub pages" section
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
+1. to change things see config.yaml pages/about.md and data/navigation files
+
 See more info at https://academicpages.github.io/
 
 ## Running Locally
