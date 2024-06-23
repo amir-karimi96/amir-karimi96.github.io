@@ -3,7 +3,7 @@ title: "Dynamic Decision Frequency with Continuous Options"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-10-01
 venue: 'IROS'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.google.com/url?q=http%3A%2F%2Farxiv.org%2Fabs%2F2212.04407&sa=D'
